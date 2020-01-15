@@ -1,0 +1,9 @@
+{
+	"map": "bridge_maps/map_bridge01.mf",
+	"goal": "bridge_maps/map_bridge01_end.mf",
+	"max_actions": 10000,
+	"auto_terminate": 0,
+	"enable_visuals": 1,
+	"items_in_bag_at_start": -1,
+    "karel_end_matters": 0
+}
