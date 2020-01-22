@@ -1,0 +1,8 @@
+{
+	"map": "stairs_map/map_stairs02.mf",
+	"goal": "stairs_map/map_stairs02_end.mf",
+	"max_actions": 10000,
+	"auto_terminate": 0,
+	"enable_visuals": 1,
+	"items_in_bag_at_start": -1
+}
